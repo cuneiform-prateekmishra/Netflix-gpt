@@ -5,6 +5,7 @@ Features
 Login/signup page
     --sign-in/sign-up form
     --redirect to browse page
+    --Login Form
  _Browse
     -header
     - Main Movie
